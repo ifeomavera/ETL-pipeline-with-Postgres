@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+from sqlalchemy import create_engine
 
 def baseCurrency(currency):
     apikey = 'f9b12587d0dc4137a5480904e3513f0c'
@@ -22,6 +23,18 @@ for code,numbers in rates.items():
 
 #print(ratesList)
 
+#create the csv files
 df = pd.DataFrame(ratesList, columns=['Currency', 'ExchangeRateInUSD'])  
 df.to_csv("currencyExchangeRatesList.csv", index=False)
 
+
+username = 'ifeoma' 
+password = 'postgre12' 
+host = 'localhost' 
+port = '5432'  
+database_name = 'CurrencyExchangeRates' 
+
+# Create a SQLAlchemy engine 
+engine = create_engine(f'postgresql+psycopg2://{username}:{password}@{host}:{port}/{database_name}') 
+# Load DataFrame into PostgreSQL table 
+df.to_sql('CurrencyexchangeRates', engine, if_exists='replace', index=False)

@@ -40,7 +40,7 @@ BDX,Beldex,Crypto,Global,AVAILABLE
 BABYDOGE,Baby Doge Coin,Crypto,Global,AVAILABLE
 SFP,SafePal,Crypto,Global,AVAILABLE
 DIA,Dia,Crypto,Global,AVAILABLE
-PORK,PepeFork,Crypto,Global,AVAILABLE
+PORK,PepeFork,Crypto,Global,DEPRECIATED
 JUP,Jupiter,Crypto,Global,AVAILABLE
 RSS3,RSS3,Crypto,Global,AVAILABLE
 LYX,LUKSO,Crypto,Global,AVAILABLE
@@ -78,7 +78,7 @@ UNI,Uniswap,Crypto,Global,AVAILABLE
 FX,Function X,Crypto,Global,AVAILABLE
 HUF,Hungarian Forint,HU,Hungary,AVAILABLE
 BIF,Burundian Franc,BI,Burundi,AVAILABLE
-GF,GuildFi,Crypto,Global,AVAILABLE
+GF,GuildFi,Crypto,Global,DEPRECIATED
 PEPECOIN,PepeCoin,Crypto,Global,AVAILABLE
 WELL,Moonwell,Crypto,Global,AVAILABLE
 OX OLD,,,,DEPRECIATED
@@ -87,7 +87,7 @@ BIT,BitDAO,Crypto,Global,AVAILABLE
 GT,GateToken,Crypto,Global,AVAILABLE
 SKK,Slovak Koruna,SK,Slovakia,AVAILABLE
 SKL,SKALE Network,Crypto,Global,AVAILABLE
-UOS,Ultra,Crypto,Global,AVAILABLE
+UOS,Ultra,Crypto,Global,DEPRECIATED
 WST,Samoan Tālā,WS,Samoa,AVAILABLE
 SHPING,Shping Coin,Crypto,Global,AVAILABLE
 BRETT,Brett,Crypto,Global,AVAILABLE
@@ -113,16 +113,16 @@ OSAK,Osaka Protocol,Crypto,Global,AVAILABLE
 MAD,Moroccan Dirham,EH,Western Sahara,AVAILABLE
 FNSA,FINSCHIA,Crypto,Global,DEPRECIATED
 TURBO,Turbo,Crypto,Global,AVAILABLE
-BLD,Agoric,Crypto,Global,AVAILABLE
+BLD,Agoric,Crypto,Global,DEPRECIATED
 UNFI,Unifi Protocol DAO,Crypto,Global,AVAILABLE
 APEX,ApeX Protocol,Crypto,Global,AVAILABLE
 FTM,Fantom,Crypto,Global,AVAILABLE
-EVER,Everscale,Crypto,Global,AVAILABLE
+EVER,Everscale,Crypto,Global,DEPRECIATED
 POWR,Powerledger,Crypto,Global,AVAILABLE
 FTN,Fasttoken,Crypto,Global,AVAILABLE
 MAV,Maverick Protocol,Crypto,Global,AVAILABLE
 CORGIAI,CorgiAI,Crypto,Global,AVAILABLE
-FTW,Black Agnus,Crypto,Global,AVAILABLE
+FTW,Black Agnus,Crypto,Global,DEPRECIATED
 ARKM,Arkham,Crypto,Global,AVAILABLE
 ATOM,Cosmos,Crypto,Global,AVAILABLE
 SAVAX,BENQI Liquid Staked AVAX,Crypto,Global,AVAILABLE
@@ -164,7 +164,7 @@ SPX,SPX6900,Crypto,Global,AVAILABLE
 MDT,Measurable Data Token,Crypto,Global,AVAILABLE
 ANDY,ANDY,Crypto,Global,AVAILABLE
 AERGO,Aergo,Crypto,Global,AVAILABLE
-KOIN,Kittekoin,Crypto,Global,AVAILABLE
+KOIN,Kittekoin,Crypto,Global,DEPRECIATED
 MX,MX Token,Crypto,Global,AVAILABLE
 EGLD,Elrond,Crypto,Global,AVAILABLE
 ZBCN,Zebec Network,Crypto,Global,DEPRECIATED
@@ -177,8 +177,8 @@ AEVO,Aevo,Crypto,Global,AVAILABLE
 SRD,Surinamese Dollar,SR,Suriname,AVAILABLE
 NU,NuCypher,Crypto,Global,AVAILABLE
 FLUX,Flux,Crypto,Global,AVAILABLE
-TOPIA,HYTOPIA,Crypto,Global,AVAILABLE
-BPX,Black Phoenix,Crypto,Global,AVAILABLE
+TOPIA,HYTOPIA,Crypto,Global,DEPRECIATED
+BPX,Black Phoenix,Crypto,Global,DEPRECIATED
 QNT,Quant,Crypto,Global,AVAILABLE
 MUSD,mStableUSD,Crypto,Global,DEPRECIATED
 OM,MANTRA,Crypto,Global,AVAILABLE
@@ -186,7 +186,7 @@ ETHW,EthereumPoW,Crypto,Global,AVAILABLE
 MUSE,Muse,Crypto,Global,AVAILABLE
 ETHX,Stader ETHx,Crypto,Global,AVAILABLE
 OP,Optimism,Crypto,Global,AVAILABLE
-CANTO,CANTO,Crypto,Global,AVAILABLE
+CANTO,CANTO,Crypto,Global,DEPRECIATED
 MGA,Malagasy Ariary,MG,Madagascar,AVAILABLE
 OKB,OKB,Crypto,Global,AVAILABLE
 OX,Open Exchange Token,Crypto,Global,DEPRECIATED
@@ -215,8 +215,8 @@ STN,São Tomé and Príncipe Dobra,ST,São Tomé and Príncipe,AVAILABLE
 BSD,Bahamian Dollar,BS,Bahamas,AVAILABLE
 STX,Stacks,Crypto,Global,AVAILABLE
 QI,BENQI,Crypto,Global,AVAILABLE
-CAIR,Crypto-AI-Robo.com,Crypto,Global,AVAILABLE
-ZBC,Zebec Protocol,Crypto,Global,AVAILABLE
+CAIR,Crypto-AI-Robo.com,Crypto,Global,DEPRECIATED
+ZBC,Zebec Protocol,Crypto,Global,DEPRECIATED
 BLAST,Blast,Crypto,Global,AVAILABLE
 BSV,Bitcoin SV,Crypto,Global,AVAILABLE
 IOST,IOST,Crypto,Global,AVAILABLE
@@ -230,7 +230,7 @@ SUN,Sun (New),Crypto,Global,AVAILABLE
 BTC,Bitcoin,Crypto,Global,AVAILABLE
 UYU,Uruguayan Peso,UY,Uruguay,AVAILABLE
 IOTA,IOTA,Crypto,Global,AVAILABLE
-ZYPTO,Zypto Token,Crypto,Global,AVAILABLE
+ZYPTO,Zypto Token,Crypto,Global,DEPRECIATED
 BTG,Bitcoin Gold,Crypto,Global,AVAILABLE
 OMR,Omani Rial,OM,Oman,AVAILABLE
 MIR,Mirror Protocol,Crypto,Global,AVAILABLE
@@ -267,7 +267,7 @@ XAG,Silver (troy ounce),Metal,Global,AVAILABLE
 KMNO,Kamino Finance,Crypto,Global,AVAILABLE
 XAI,Xai,Crypto,Global,AVAILABLE
 ZEN,Horizen,Crypto,Global,AVAILABLE
-FRIEND,Friend.tech,Crypto,Global,AVAILABLE
+FRIEND,Friend.tech,Crypto,Global,DEPRECIATED
 DOGE,Dogecoin,Crypto,Global,AVAILABLE
 SXP,,,,AVAILABLE
 HBAR,Hedera,Crypto,Global,AVAILABLE
@@ -281,7 +281,7 @@ DOGS,Dogs,Crypto,Global,AVAILABLE
 XBC,Bitcoin Plus,Crypto,Global,DEPRECIATED
 CTSI,Cartesi,Crypto,Global,AVAILABLE
 BWP,Botswanan Pula,BW,Botswana,AVAILABLE
-COMAI,Commune AI,Crypto,Global,AVAILABLE
+COMAI,Commune AI,Crypto,Global,DEPRECIATED
 OUSG,OUSG,Crypto,Global,AVAILABLE
 C98,Coin98,Crypto,Global,AVAILABLE
 OSMO,Osmosis,Crypto,Global,AVAILABLE
@@ -290,7 +290,7 @@ SYN,Synapse,Crypto,Global,AVAILABLE
 MMK,Burmese Kyat,MM,Myanmar,AVAILABLE
 SYP,Syrian Pound,SY,Syria,AVAILABLE
 CRPT,Crypterium,Crypto,Global,AVAILABLE
-GAJ,Gaj Finance,Crypto,Global,AVAILABLE
+GAJ,Gaj Finance,Crypto,Global,DEPRECIATED
 GAL,Project Galaxy,Crypto,Global,AVAILABLE
 GAS,Gas,Crypto,Global,AVAILABLE
 XCD,East Caribbean Dollar,AG,Antigua and Barbuda,AVAILABLE
@@ -298,10 +298,10 @@ MMX,MMX,Crypto,Global,AVAILABLE
 BOME,BOOK OF MEME,Crypto,Global,AVAILABLE
 VR,Victoria VR,Crypto,Global,AVAILABLE
 XCH,Chia,Crypto,Global,AVAILABLE
-SYNC,Syncus,Crypto,Global,AVAILABLE
+SYNC,Syncus,Crypto,Global,DEPRECIATED
 CBBTC,Coinbase Wrapped BTC,Crypto,Global,AVAILABLE
 THETA,Theta Network,Crypto,Global,AVAILABLE
-PANDORA,Pandora,Crypto,Global,AVAILABLE
+PANDORA,Pandora,Crypto,Global,DEPRECIATED
 XCN,Chain,Crypto,Global,AVAILABLE
 SZL,Swazi Lilangeni,SZ,Eswatini,AVAILABLE
 ORN,Orion Protocol,Crypto,Global,AVAILABLE
@@ -327,13 +327,13 @@ MONA,Monavale,Crypto,Global,AVAILABLE
 HMSTR,Hamster Kombat,Crypto,Global,AVAILABLE
 XEC,eCash,Crypto,Global,AVAILABLE
 PEOPLE,ConstitutionDAO,Crypto,Global,AVAILABLE
-XT,XT.com Token,Crypto,Global,AVAILABLE
+XT,XT.com Token,Crypto,Global,DEPRECIATED
 ZIL,Zilliqa,Crypto,Global,AVAILABLE
 XEM,NEM,Crypto,Global,AVAILABLE
 WEETH,Wrapped eETH,Crypto,Global,AVAILABLE
 TRAC,OriginTrail,Crypto,Global,AVAILABLE
 MPL,Maple,Crypto,Global,AVAILABLE
-10SET,Tenset,Crypto,Global,AVAILABLE
+10SET,Tenset,Crypto,Global,DEPRECIATED
 WAXL,Axelar,Crypto,Global,AVAILABLE
 OOKI,Ooki Protocol,Crypto,Global,AVAILABLE
 BORA,BORA,Crypto,Global,AVAILABLE
@@ -346,7 +346,7 @@ KNC,Kyber Network Crystals,Crypto,Global,AVAILABLE
 PROM,Prom,Crypto,Global,AVAILABLE
 ALEPH,Aleph.im,Crypto,Global,AVAILABLE
 PONKE,Ponke,Crypto,Global,AVAILABLE
-BODEN,Jeo Boden,Crypto,Global,AVAILABLE
+BODEN,Jeo Boden,Crypto,Global,DEPRECIATED
 GFI,Goldfinch,Crypto,Global,AVAILABLE
 MRO,Mauritanian Ouguiya,MR,Mauritania,AVAILABLE
 MRS,Metars Genesis,Crypto,Global,AVAILABLE
@@ -357,9 +357,9 @@ SUPEROETHB,Super OETH,Crypto,Global,AVAILABLE
 WAXP,WAX,Crypto,Global,AVAILABLE
 SUKU,SUKU,Crypto,Global,AVAILABLE
 GGP,Guernsey Pound,GG,Guernsey,AVAILABLE
-GRIN,Grin,Crypto,Global,AVAILABLE
+GRIN,Grin,Crypto,Global,DEPRECIATED
 VEF,Venezuelan Bolívar Fuerte,VE,Venezuela,AVAILABLE
-BTRFLY,Redacted,Crypto,Global,AVAILABLE
+BTRFLY,Redacted,Crypto,Global,DEPRECIATED
 ZMK,Zambian Kwacha,ZM,Zambia,AVAILABLE
 KARRAT,Karrat,Crypto,Global,AVAILABLE
 ALPH,Alephium,Crypto,Global,AVAILABLE
@@ -382,7 +382,7 @@ EDU,Open Campus,Crypto,Global,AVAILABLE
 MEDIA,Media Network,Crypto,Global,AVAILABLE
 KEEP,Keep Network,Crypto,Global,AVAILABLE
 CAD,Canadian Dollar,CA,Canada,AVAILABLE
-CAF,Childrens Aid Foundation,Crypto,Global,AVAILABLE
+CAF,Childrens Aid Foundation,Crypto,Global,DEPRECIATED
 EEK,Estonian Kroon,EE,Estonia,AVAILABLE
 MUR,Mauritius Rupee,MU,Mauritius,AVAILABLE
 IMP,Isle of Man Pound,IM,Isle of Man,AVAILABLE
@@ -406,7 +406,7 @@ TRIBE,Tribe,Crypto,Global,AVAILABLE
 INR,Indian Rupee,IN,India,AVAILABLE
 INV,Inverse Finance,Crypto,Global,AVAILABLE
 KRW,South Korean Won,KR,South Korea,AVAILABLE
-STSOL,Lido for Solana,Crypto,Global,AVAILABLE
+STSOL,Lido for Solana,Crypto,Global,DEPRECIATED
 MWC,MimbleWimbleCoin,Crypto,Global,AVAILABLE
 XLM,Stellar,Crypto,Global,AVAILABLE
 DORA,Dora Factory,Crypto,Global,AVAILABLE
@@ -424,8 +424,8 @@ MOVR,Moonriver,Crypto,Global,AVAILABLE
 RAI,Rai Reflex Index,Crypto,Global,AVAILABLE
 XMR,Monero,Crypto,Global,AVAILABLE
 MXN,Mexican Peso,MX,Mexico,AVAILABLE
-TET,Tectum,Crypto,Global,AVAILABLE
-MCOIN,MCOIN,Crypto,Global,AVAILABLE
+TET,Tectum,Crypto,Global,DEPRECIATED
+MCOIN,MCOIN,Crypto,Global,DEPRECIATED
 CDF,Congolese Franc,CD,Democratic Republic of the Congo,AVAILABLE
 GLM,Golem,Crypto,Global,AVAILABLE
 RAY,Raydium,Crypto,Global,AVAILABLE
@@ -440,10 +440,10 @@ GMD,Gambian Dalasi,GM,Gambia,AVAILABLE
 RBN,Ribbon FInance,Crypto,Global,AVAILABLE
 ZRX,ZRX 0x,Crypto,Global,AVAILABLE
 MYR,Malaysian Ringgit,MY,Malaysia,AVAILABLE
-CEL,Celsius Network,Crypto,Global,AVAILABLE
+CEL,Celsius Network,Crypto,Global,DEPRECIATED
 XOF,West African CFA Franc,CFA,African Financial Community,AVAILABLE
 GMT,Stepn,Crypto,Global,AVAILABLE
-BEER,BEERCOIN,Crypto,Global,AVAILABLE
+BEER,BEERCOIN,Crypto,Global,DEPRECIATED
 SWETH,Swell Ethereum,Crypto,Global,AVAILABLE
 CET,CoinEx Token,Crypto,Global,AVAILABLE
 GMX,GMX,Crypto,Global,AVAILABLE
@@ -462,7 +462,7 @@ VANRY,Vanar Chain,Crypto,Global,AVAILABLE
 BITCOIN,HarryPotterObamaSonic10Inu (ETH),Crypto,Global,AVAILABLE
 ABT,Arcblock,Crypto,Global,AVAILABLE
 CFX,Conflux,Crypto,Global,AVAILABLE
-CDAI,Compound Dai,Crypto,Global,AVAILABLE
+CDAI,Compound Dai,Crypto,Global,DEPRECIATED
 KWD,Kuwaiti Dinar,KW,Kuwait,AVAILABLE
 VELO,Velo,Crypto,Global,AVAILABLE
 XPT,Platinum (troy ounce),Metal,Global,AVAILABLE
@@ -503,7 +503,7 @@ TJS,Tajikistani Somoni,TJ,Tajikistan,AVAILABLE
 AED,UAE Dirham,AE,United Arab Emirates,AVAILABLE
 FIDA,Bonfida,Crypto,Global,AVAILABLE
 H2O,H2O Dao,Crypto,Global,AVAILABLE
-EML,EML Protocol,Crypto,Global,AVAILABLE
+EML,EML Protocol,Crypto,Global,DEPRECIATED
 ZWD,Zimbabwean Dollar,ZW,Zimbabwe,AVAILABLE
 OCEAN,Ocean Protocol,Crypto,Global,AVAILABLE
 QGOLD,Quorium,Crypto,Global,AVAILABLE
@@ -517,7 +517,7 @@ KZT,Kazakhstani Tenge,KZ,Kazakhstan,AVAILABLE
 YFII,DFI.Money,Crypto,Global,AVAILABLE
 DIMO,DIMO,Crypto,Global,AVAILABLE
 GRT,The Graph,Crypto,Global,AVAILABLE
-HBTC,Huobi BTC,Crypto,Global,AVAILABLE
+HBTC,Huobi BTC,Crypto,Global,DEPRECIATED
 AFN,Afghan Afghani,AF,Afghanistan,AVAILABLE
 TFUEL,Theta Fuel,Crypto,Global,AVAILABLE
 ENS,Ethereum Name Service,Crypto,Global,AVAILABLE
@@ -552,12 +552,12 @@ CLV,Clover Finance,Crypto,Global,AVAILABLE
 $MYRO,Myro,Crypto,Global,AVAILABLE
 XVS,Venus,Crypto,Global,AVAILABLE
 MEME,Memecoin,Crypto,Global,AVAILABLE
-LYXE,LUKSO (Old),Crypto,Global,AVAILABLE
+LYXE,LUKSO (Old),Crypto,Global,DEPRECIATED
 SFUND,Seedify.fund,Crypto,Global,AVAILABLE
 TON,Toncoin,Crypto,Global,AVAILABLE
 TOP,Tongan Paʻanga,TO,Tonga,AVAILABLE
 PGK,Papua New Guinean Kina,PG,Papua New Guinea,AVAILABLE
-TOR,TOR,Crypto,Global,AVAILABLE
+TOR,TOR,Crypto,Global,DEPRECIATED
 GYEN,GYEN,Crypto,Global,AVAILABLE
 CNH,Chinese Yuan Renminbi Offshore,CN,China,AVAILABLE
 NCT,Polyswarm,Crypto,Global,AVAILABLE
@@ -567,7 +567,7 @@ VENOM,Venom,Crypto,Global,AVAILABLE
 VOXEL,Voxies,Crypto,Global,AVAILABLE
 RLC,iExec RLC,Crypto,Global,AVAILABLE
 RLB,,,,AVAILABLE
-MAGA,TRUMP,Crypto,Global,AVAILABLE
+MAGA,TRUMP,Crypto,Global,DEPRECIATED
 CNY,Chinese Yuan Renminbi,CN,China,AVAILABLE
 PHP,Philippine Piso,PH,Philippines,AVAILABLE
 RLY,Rally,Crypto,Global,AVAILABLE
@@ -581,7 +581,7 @@ GLMR,Moonbeam,Crypto,Global,AVAILABLE
 ORAI,Oraichain,Crypto,Global,AVAILABLE
 XYO,XYO Network,Crypto,Global,AVAILABLE
 ETB,Ethiopian Birr,ET,Ethiopia,AVAILABLE
-GXC,GXChain,Crypto,Global,AVAILABLE
+GXC,GXChain,Crypto,Global,DEPRECIATED
 ETC,Ethereum Classic,Crypto,Global,AVAILABLE
 VUV,Vanuatu Vatu,VU,Vanuatu,AVAILABLE
 LAK,Laotian Kip,LA,Laos,AVAILABLE
@@ -590,7 +590,7 @@ NEO,Neo,Crypto,Global,AVAILABLE
 KLAY,Klaytn,Crypto,Global,DEPRECIATED
 MEMES,MEMES•GO•TO•THE•MOON (Runes),Crypto,Global,DEPRECIATED
 ALL,Albanian Lek,AL,Albania,AVAILABLE
-MAVIA,Heroes of Mavia,Crypto,Global,AVAILABLE
+MAVIA,Heroes of Mavia,Crypto,Global,DEPRECIATED
 HIGH,Highstreet,Crypto,Global,AVAILABLE
 TRB,Tellor,Crypto,Global,AVAILABLE
 ALT,AltLayer,Crypto,Global,AVAILABLE
@@ -640,7 +640,7 @@ CTC,Creditcoin,Crypto,Global,AVAILABLE
 NIO,Nicaraguan Córdoba,NI,Nicaragua,AVAILABLE
 APE,ApeCoin,Crypto,Global,AVAILABLE
 LEO,UNUS SED LEO,Crypto,Global,AVAILABLE
-APL,Apollo,Crypto,Global,AVAILABLE
+APL,Apollo,Crypto,Global,DEPRECIATED
 MCO2,Moss Carbon Credit,Crypto,Global,AVAILABLE
 00,00 Token,Crypto,Global,AVAILABLE
 MATIC,Polygon,Crypto,Global,AVAILABLE
@@ -720,7 +720,7 @@ YFI,Yearn Finance,Crypto,Global,AVAILABLE
 MOODENG,Moo Deng,Crypto,Global,AVAILABLE
 CWBTC,Compound Wrapped BTC,Crypto,Global,AVAILABLE
 POPCAT,Popcat,Crypto,Global,AVAILABLE
-WBT,WhiteBIT Coin,Crypto,Global,DEPRECIATED
+WBT,WhiteBIT Coin,Crypto,Global,AVAILABLE
 LQTY,Liquity,Crypto,Global,AVAILABLE
 OLAS,Autonolas,Crypto,Global,AVAILABLE
 ALUSD,Alchemix USD,Crypto,Global,AVAILABLE
@@ -728,8 +728,8 @@ PUPS,PUPS (Ordinals),Crypto,Global,AVAILABLE
 PIXEL,Pixels,Crypto,Global,AVAILABLE
 ZETA,ZetaChain,Crypto,Global,AVAILABLE
 AXL,Axelar,Crypto,Global,AVAILABLE
-BILLY,Billy,Crypto,Global,AVAILABLE
-CHEEL,Cheelee,Crypto,Global,AVAILABLE
+BILLY,Billy,Crypto,Global,DEPRECIATED
+CHEEL,Cheelee,Crypto,Global,DEPRECIATED
 YGG,Yield Guild Games,Crypto,Global,AVAILABLE
 AXS,Axie Infinity,Crypto,Global,AVAILABLE
 HONEY,Hivemapper,Crypto,Global,AVAILABLE
@@ -744,7 +744,7 @@ GHST,Aavegotchi,Crypto,Global,AVAILABLE
 MATH,MATH,Crypto,Global,AVAILABLE
 IDEX,IDEX,Crypto,Global,AVAILABLE
 DEXE,DeXe,Crypto,Global,AVAILABLE
-VNST,VNST Stablecoin,Crypto,Global,AVAILABLE
+VNST,VNST Stablecoin,Crypto,Global,DEPRECIATED
 AVAX,Avalanche,Crypto,Global,AVAILABLE
 AZN,Azerbaijani Manat,AZ,Azerbaijan,AVAILABLE
 AMPL,Ampleforth,Crypto,Global,AVAILABLE
@@ -754,13 +754,13 @@ NEIRO,Neiro on ETH,Crypto,Global,AVAILABLE
 LPT,Livepeer (LPT),Crypto,Global,AVAILABLE
 EZETH,Renzo Restaked ETH,Crypto,Global,AVAILABLE
 GODS,Gods Unchained,Crypto,Global,AVAILABLE
-EDUM,EDUM,Crypto,Global,AVAILABLE
+EDUM,EDUM,Crypto,Global,DEPRECIATED
 PYG,Paraguayan Guaraní,PY,Paraguay,AVAILABLE
 JMD,Jamaican Dollar,JM,Jamaica,AVAILABLE
 XAUT,Tether Gold,Crypto,Global,AVAILABLE
 PYR,Vulcan Forged PYR,Crypto,Global,AVAILABLE
 BTRST,Braintrust,Crypto,Global,AVAILABLE
-MKUSD,Prisma mkUSD,Crypto,Global,AVAILABLE
+MKUSD,Prisma mkUSD,Crypto,Global,DEPRECIATED
 DAG,Constellation,Crypto,Global,AVAILABLE
 DAI,DAI,Crypto,Global,AVAILABLE
 DAO,DAO Maker,Crypto,Global,AVAILABLE
@@ -775,7 +775,7 @@ CORE,Core,Crypto,Global,AVAILABLE
 DASH,Digital Cash,Crypto,Global,AVAILABLE
 POKT,Pocket Network,Crypto,Global,AVAILABLE
 SAGA,Saga,Crypto,Global,AVAILABLE
-LSD,L7DEX,Crypto,Global,AVAILABLE
+LSD,L7DEX,Crypto,Global,DEPRECIATED
 JOD,Jordanian Dinar,JO,Jordan,AVAILABLE
 GUSD,Gemini US Dollar,Crypto,Global,AVAILABLE
 HKD,Hong Kong Dollar,HK,Hong Kong,AVAILABLE
@@ -784,7 +784,7 @@ ARSMEP,Argentine Blue Dollar,AR,Argentina,AVAILABLE
 LSL,Lesotho Loti,LS,Lesotho,AVAILABLE
 LSK,Lisk,Crypto,Global,AVAILABLE
 SAFE,Safe,Crypto,Global,AVAILABLE
-RDOG,Repost Dog,Crypto,Global,AVAILABLE
+RDOG,Repost Dog,Crypto,Global,DEPRECIATED
 DCR,Decred,Crypto,Global,AVAILABLE
 WIF,dogwifhat,Crypto,Global,AVAILABLE
 LTC,Litecoin,Crypto,Global,AVAILABLE
@@ -796,7 +796,7 @@ LTL,Lithuanian Litas,LT,Lithuania,AVAILABLE
 SAR,Saudi Riyal,SA,Saudi Arabia,AVAILABLE
 DYDX,dYdX,Crypto,Global,AVAILABLE
 AGIX,SingularityNET,Crypto,Global,AVAILABLE
-MUBI,Multibit,Crypto,Global,AVAILABLE
+MUBI,Multibit,Crypto,Global,DEPRECIATED
 POND,Marlin,Crypto,Global,AVAILABLE
 JPY,Japanese Yen,JP,Japan,AVAILABLE
 SBD,Solomon Islands Dollar,SB,Solomon Islands,AVAILABLE
@@ -827,8 +827,8 @@ KAIA,Kaia,Crypto,Global,AVAILABLE
 DRIFT,Drift Protocol,Crypto,Global,AVAILABLE
 PUMPBTC,pumpBTC,Crypto,Global,AVAILABLE
 $MICHI,michi,Crypto,Global,AVAILABLE
-PIP,PIP,Crypto,Global,AVAILABLE
-VXOR,Vested XOR,Crypto,Global,AVAILABLE
+PIP,PIP,Crypto,Global,DEPRECIATED
+VXOR,Vested XOR,Crypto,Global,DEPRECIATED
 SSOL,Solayer Staked SOL,Crypto,Global,AVAILABLE
 CMETH,Mantle Restaked ETH,Crypto,Global,AVAILABLE
 CETUS,Cetus Protocol,Crypto,Global,AVAILABLE
@@ -838,25 +838,25 @@ RBTC,RabBitcoin,Crypto,Global,AVAILABLE
 BZR,Bazaars,Crypto,Global,AVAILABLE
 AMAPT,Amnis Aptos,Crypto,Global,AVAILABLE
 SWELL,SWELL,Crypto,Global,AVAILABLE
-LUCE,LUCE,Crypto,Global,AVAILABLE
+LUCE,LUCE,Crypto,Global,DEPRECIATED
 AI16Z,ai16z,Crypto,Global,AVAILABLE
 FARTCOIN,Fartcoin,Crypto,Global,AVAILABLE
 ZEREBRO,Zerebro,Crypto,Global,AVAILABLE
-BARSIK,Hasbulla's Cat,Crypto,Global,AVAILABLE
+BARSIK,Hasbulla's Cat,Crypto,Global,DEPRECIATED
 BAN,Comedian,Crypto,Global,AVAILABLE
-LQR,Laqira Protocol,Crypto,Global,AVAILABLE
+LQR,Laqira Protocol,Crypto,Global,DEPRECIATED
 ORA,ORA,Crypto,Global,AVAILABLE
 CHILLGUY,Chill Guy,Crypto,Global,AVAILABLE
 PEAQ,peaq,Crypto,Global,AVAILABLE
 SOLO,Sologenic,Crypto,Global,AVAILABLE
 TITS,We Love Tits,Crypto,Global,AVAILABLE
 BINK,Big Dog Fink,Crypto,Global,AVAILABLE
-DADDYCHILL,Daddy Chill,Crypto,Global,AVAILABLE
+DADDYCHILL,Daddy Chill,Crypto,Global,DEPRECIATED
 SNEK,Snek,Crypto,Global,AVAILABLE
 HYPE,Hyperliquid,Crypto,Global,AVAILABLE
-STAU,STAU,Crypto,Global,AVAILABLE
+STAU,STAU,Crypto,Global,DEPRECIATED
 AGENTFUN,AgentFun.AI,Crypto,Global,AVAILABLE
-STEAKEURCV,Steakhouse EURCV Morpho Vault,Crypto,Global,AVAILABLE
+STEAKEURCV,Steakhouse EURCV Morpho Vault,Crypto,Global,DEPRECIATED
 SHIRO,Shiro Neko,Crypto,Global,AVAILABLE
 MOVE,Movement,Crypto,Global,AVAILABLE
 ME,Magic Eden,Crypto,Global,AVAILABLE
@@ -896,9 +896,9 @@ ZEUS,Zeus Network,Crypto,Global,AVAILABLE
 CGPT,ChainGPT,Crypto,Global,AVAILABLE
 INSURANCE,insurance,Crypto,Global,AVAILABLE
 CTB,Content Bitcoin,Crypto,Global,AVAILABLE
-MEOW,,,,AVAILABLE
+MEOW,MEOW,Crypto,Global,AVAILABLE
 USD1,USD1,Crypto,Global,AVAILABLE
-BERASTONE,,,,AVAILABLE
-UFD,,,,AVAILABLE
-KPK,,,,AVAILABLE
-MELANIA,,,,AVAILABLE
+BERASTONE,StakeStone Berachain Vault Token,Crypto,Global,AVAILABLE
+UFD,Unicorn Fart Dust,Crypto,Global,AVAILABLE
+KPK,ParkCoin,Crypto,Global,AVAILABLE
+MELANIA,Melania Meme,Crypto,Global,AVAILABLE

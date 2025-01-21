@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+from sqlalchemy import create_engine
 
 url = 'https://api.currencyfreaks.com/v2.0/supported-currencies'
 
@@ -28,3 +29,14 @@ for currencyCode, details in supportedCurrencies.items():
 df = pd.DataFrame(supportedCurrenciesList)  
 df.to_csv('supportedCurrenciesList.csv', index = False)
 
+
+username = 'ifeoma' 
+password = 'postgre12' 
+host = 'localhost' 
+port = '5432'  
+database_name = 'CurrencyExchangeRates' 
+
+# Create a SQLAlchemy engine 
+engine = create_engine(f'postgresql+psycopg2://{username}:{password}@{host}:{port}/{database_name}') 
+# Load DataFrame into PostgreSQL table 
+df.to_sql('supportedcurrency', engine, if_exists='replace', index=False)
