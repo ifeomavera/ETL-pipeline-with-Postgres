@@ -3,7 +3,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 def baseCurrency(currency):
-    apikey = 'f9b12587d0dc4137a5480904e3513f0c'
+    apikey = #API KEY
     url = f'https://api.currencyfreaks.com/v2.0/rates/latest?apikey={apikey}&base={currency}'
     response = requests.get(url)
     data = response.json() 
@@ -29,7 +29,7 @@ df.to_csv("currencyExchangeRatesList.csv", index=False)
 
 
 username = 'ifeoma' 
-password = 'postgre12' 
+password = #Passowrd of the database
 host = 'localhost' 
 port = '5432'  
 database_name = 'CurrencyExchangeRates' 
