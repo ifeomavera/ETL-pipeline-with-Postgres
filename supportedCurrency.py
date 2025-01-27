@@ -31,7 +31,7 @@ df.to_csv('supportedCurrenciesList.csv', index = False)
 
 
 username = 'ifeoma' 
-password = 'postgre12' 
+password = #Password of the database
 host = 'localhost' 
 port = '5432'  
 database_name = 'CurrencyExchangeRates' 
